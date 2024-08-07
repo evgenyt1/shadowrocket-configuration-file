@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-KEYWORD,chatgpt
 DOMAIN-SUFFIX,openai.com
 
-DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
@@ -28,11 +27,6 @@ DOMAIN-SUFFIX,cdnfbsbx.com
 DOMAIN-SUFFIX,igcdn.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,connect.facebook.net
-DOMAIN-SUFFIX,graph.facebook.com
-DOMAIN-SUFFIX,gateway.facebook.com
-DOMAIN-SUFFIX,edge-chat.facebook.com
-DOMAIN-SUFFIX,l.facebook.com
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbsbx.com

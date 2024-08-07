@@ -2,6 +2,11 @@
 DOMAIN-SUFFIX,theinsider.ru
 DOMAIN-SUFFIX,moscowtimes.ru
 DOMAIN-SUFFIX,meduza.io
+
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,bbci.co.uk
+
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,aol.com

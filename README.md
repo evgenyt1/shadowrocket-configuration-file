@@ -1,0 +1,1 @@
+https://stash.wiki/rules/rule-types
